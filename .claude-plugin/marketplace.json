@@ -1,0 +1,21 @@
+{
+  "name": "daily-skill",
+  "owner": {
+    "name": "guoxingyong",
+    "email": "guoxingyong9627@gmail.com"
+  },
+  "metadata": {
+    "description": "日常工作总结skill分享",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "daily-skill",
+      "description": "日常工作总结skill分享",
+      "source": "./",
+      "skills": [
+        "./para-manager"
+      ]
+    }
+  ]
+}
